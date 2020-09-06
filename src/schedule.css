@@ -1,0 +1,36 @@
+#schedule {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+#range {
+    text-align: center;
+}
+
+.event {
+    width: auto;
+}
+
+.event-list {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin-left: auto;
+    justify-content: center;
+}
+
+.name {
+    flex: 0 0 15em;
+}
+
+.start {
+    flex: 0 0 8em;
+}
+
+.dash {
+    flex: 0 0 3em;
+}
+
+.end {
+    flex: 0 0 8em;
+}
